@@ -38,7 +38,7 @@
 
 ## Used by
 
-- [kubernetes/minikube](github.com/kubernetes/minikube): Run Kubernetes locally. 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally. 
 
 ## Featured In
 
