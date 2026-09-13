@@ -38,7 +38,9 @@
 
 ## Used by
 
-- [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally. 
+- [kubernetes/minikube](https://github.com/kubernetes/minikube): Run Kubernetes locally.
+
+Using Box CLI Maker in your project? [Open an issue](https://github.com/box-cli-maker/.github/issues/new) or a PR against this repo's `profile/README.md` and we'll add you here.
 
 ## Featured In
 
